@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite
+}
+
+ul{
+    font-family: monospace;
+    color: cadetblue;
+    margin-left: 200px;
+    margin-top:  20px
+}
+p{
+    text-align:center;
+    font-size: 25px;
+    margin-left: 200px;
+    margin-top:  20px
+}
+img{
+    margin-left: 450px;
+    margin-top:  20px
+}
+
+table{
+    border-color: blue;
+    font-size: 30px;
+    margin-left: 475px;
+    margin-top:  20px
+}
+
+th{
+    color:cadetblue ;
+}
+
